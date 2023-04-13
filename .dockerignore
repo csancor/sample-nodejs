@@ -1,0 +1,5 @@
+# arquivos e diretórios a serem ignorados pelo Docker durante o build
+node_modules/
+npm-debug.log
+.DS_Store
+.env
