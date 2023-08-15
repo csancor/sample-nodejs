@@ -1,11 +1,11 @@
 {
   "name": "sample-nodejs-web",
   "version": "1.0.0",
-  "description": "Após baixar o container com o Jenkins:",
+  "description": "Sample node js server.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js"
+    "start": "node server.js"
   },
   "author": "",
   "license": "ISC",
